@@ -41,3 +41,4 @@ public class Methods {
         return (int)(Math.random() * (max - min + 1)) + min;
     }
 }
+
